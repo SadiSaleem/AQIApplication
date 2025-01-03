@@ -1,5 +1,11 @@
                                     # AQIApplication
                     Lahore Air Quality Mapping for the Year of 2024
+
+                    
+  Note:       In the given zip folder you will find shapefiles of LahoreBoundary,Roads and Industries. 
+                 also the python script file of the AQI Application and the report of 2 pages.
+
+
 Step1: Open the AQIapp.py (python) file from the given filder nmed as 'AQIApplicationofLahore'.
 
 step2: In the "def __init__(self)" Change the cloud project name to your own cloud project name of google earth engine. This will initialize ee library or module in the code.The given line is as: 
